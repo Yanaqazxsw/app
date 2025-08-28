@@ -1,0 +1,57 @@
+.add-post-form {
+    background-color: #f9f9f9;
+    padding: 15px; /* Reduced padding */
+    max-width: 400px; /* Reduced form width */
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Lighter shadow for a cleaner look */
+    font-family: Arial, sans-serif;
+  }
+  
+  .add-post-form h2 {
+    color: #333;
+    margin-bottom: 15px; /* Reduced margin */
+    text-align: center;
+    font-size: 20px; /* Smaller heading size */
+  }
+  
+  .label {
+    display: block;
+    font-weight: bold;
+    margin-top: 10px; /* Reduced margin */
+    color: #555;
+  }
+  
+  .input-field, .textarea-field, .select-field {
+    width: 100%;
+    padding: 8px; /* Reduced padding */
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px; /* Smaller font size */
+  }
+  
+  .textarea-field {
+    height: 80px; /* Reduced textarea height */
+    resize: vertical;
+  }
+  
+  .submit-button {
+    width: 100%;
+    padding: 10px; /* Reduced padding */
+    margin-top: 15px; /* Reduced margin */
+    font-size: 16px; /* Slightly smaller button text */
+    font-weight: bold;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .submit-button:hover {
+    background-color: #0056b3;
+  }
+  
+  
